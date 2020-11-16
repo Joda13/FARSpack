@@ -5,6 +5,11 @@ The goal of fars.packageR is to read a csv-file with data from the US National H
   Administrations Fatality Analysis Reporting System (FARS) into a tibble data frame
   FARS is a nationwide census providing the American public yearly data
   (available data: 2013 - 2015) regarding fatal injuries suffered in motor vehicle traffic crashes
+  
+  
+## Date
+
+Date: Nov 16, 2020
 
 ## Installation
 
