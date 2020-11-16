@@ -9,7 +9,7 @@ The goal of fars.packageR is to read a csv-file with data from the US National H
   
 ## Date
 
-Date: Nov 16, 2020
+Nov 16, 2020
 
 ## Installation
 
@@ -24,6 +24,9 @@ This is a basic example which shows you how to solve a common problem:
 
 ``` r
 library(fars.packageR)
-## basic example code
+
+## Visualization of a state map (id = 13) showing places (coordinates) of accidents in a specific year (year = 2013)
+fars_map_state(13,2013)
+
 ```
 
