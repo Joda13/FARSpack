@@ -2,14 +2,3 @@
 
 language: R
 cache: packages
-
-os:
-  - linux
-dist: xenial
-
-r_binary_packages:
-  - devtools
-  - roxygen2
-
-after_success:
-  - Rscript -e 'devtools::install();devtools::test()'

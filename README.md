@@ -1,4 +1,11 @@
+---
+output: github_document
+---
 
+
+[![Travis build status](https://travis-ci.com/Joda13/FARSpack.svg?branch=master)](https://travis-ci.com/Joda13/FARSpack)
+ 
+ 
 # FARS
 
 The goal of fars.packageR is to read a csv-file with data from the US National Highway Traffic Safety
@@ -17,6 +24,7 @@ You can install the released version of fars.packageR here:
 ``` r
 install_github('Joda13/FARSpack') 
 ```
+
 
 
 ## Example
