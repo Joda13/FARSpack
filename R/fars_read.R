@@ -1,3 +1,13 @@
+
+
+# ------------------------------------------------------------
+#  BUILDING R PACKAGES
+#  Peer graded Assignment
+#  File: fars_read.R
+#  GNU GENERAL PUBLIC LICENSE
+#  -----------------------------------------------------------
+
+
 #' Reading and converting in FARS data into data frame
 #'
 #' The function reads a csv-file with data from the US National Highway Traffic Safety
