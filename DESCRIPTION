@@ -1,0 +1,19 @@
+Package: FARS
+Type: Package
+Title: Read FARS data
+Date: 2022-11-04
+Version: 1.0
+Authors: Johannes Damster
+Description: Reads a csv-file with data from the US National Highway Traffic Safety
+  Administrations Fatality Analysis Reporting System (FARS) into a tibble data frame
+  FARS is a nationwide census providing the American public yearly data
+  (available data: 2013 - 2015) regarding fatal injuries suffered in motor vehicle traffic crashes
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: dplyr,mapdata, maps, magrittr, readr, tidyr, tibble
+VignetteBuilder: knitr
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    knitr
