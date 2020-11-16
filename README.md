@@ -15,8 +15,9 @@ Nov 16, 2020
 
 You can install the released version of fars.packageR here:
 ``` r
-install.packages("fars.packageR")
+install_github('Joda13/FARSpack') 
 ```
+
 
 ## Example
 
